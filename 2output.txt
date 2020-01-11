@@ -1,0 +1,25 @@
+Time: 21:30:09
+Type: Order
+Message: Go to the class.
+
+
+Time: 21:30:09
+Type: Information
+Message: I am not well.
+
+
+Time: 21:30:09
+Type: Order
+Message: Do not play.
+
+
+Time: 21:30:09
+Type: Warning
+Message: Do not disturb.
+
+
+Time: 21:30:09
+Type: Request
+Message: Please keep quiet
+
+
